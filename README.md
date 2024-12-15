@@ -1,5 +1,9 @@
 # AI Agent Directory Scraper
 
+<div align="center">
+    <img src="./img/minecraft_wordcloud.png">
+</div>
+
 ## Description
 This project is a command-line interface (CLI) tool for scraping data from the AI Agent Directory. It allows users to collect information about various AI agents, transform the data into Excel format, and generate visualizations such as word clouds based on user cases.
 

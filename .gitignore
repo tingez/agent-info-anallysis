@@ -35,7 +35,6 @@ ENV/
 
 # Project specific
 *.log
-*.png
 update.json
 
 # Jupyter Notebook
